@@ -1,0 +1,8 @@
+INFO  | 2021-09-15 07:55:49 | [main] HelloWorldJava.App (App.java:17) - this is info message
+WARN  | 2021-09-15 07:55:49 | [main] HelloWorldJava.App (App.java:19) - this is warn message
+ERROR | 2021-09-15 07:55:49 | [main] HelloWorldJava.App (App.java:20) - this is error message
+FATAL | 2021-09-15 07:55:49 | [main] HelloWorldJava.App (App.java:21) - this is fatal message
+INFO  | 2021-09-21 19:24:09 | [main] HelloWorldJava.App (App.java:17) - this is info message
+WARN  | 2021-09-21 19:24:09 | [main] HelloWorldJava.App (App.java:19) - this is warn message
+ERROR | 2021-09-21 19:24:09 | [main] HelloWorldJava.App (App.java:20) - this is error message
+FATAL | 2021-09-21 19:24:09 | [main] HelloWorldJava.App (App.java:21) - this is fatal message
